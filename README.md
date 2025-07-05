@@ -21,7 +21,7 @@ Each folder contains:
 | Algorithm Category | Algorithm Name                             | Description                                  |
 | ------------------ | ------------------------------------------ | -------------------------------------------- |
 | 🔍 Search          | [Linear Search](./linear_search/README.md) | Searches for an element one-by-one in a list |
-| 🔍 Search          | _Coming soon_                              | Binary Search, Jump Search...                |
+| 🔍 Search          | [Binary Search](./BinarySearch/README.md)  | Binary Search -Efficiently finds the match in a sorted list             |
 | 🔃 Sorting         | _Coming soon_                              | Bubble Sort, Merge Sort, Quick Sort...       |
 | 📊 Others          | _Coming soon_                              | Fibonacci, Factorial, etc.                   |
 
